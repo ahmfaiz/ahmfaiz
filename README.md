@@ -1,16 +1,25 @@
-### Hi there 👋
+<div align="center">
+  <img src="/text-anim.gif">
+  <h1>Hi there, I'm Faiz</h1>
+  <p>Cybersec and Opensource enthusiast</p>
+  <a href="https://www.linkedin.com/in/faiz-/"><img src="https://img.shields.io/badge/-Faiz%20Ahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faiz-/" alt="Linkedin Badge"></a>
+  <a href="mailto:faiz@ahmed.slmail.me"><img src="https://img.shields.io/badge/-faiz@ahmed.slmail.me-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:faiz@ahmed.slmail.me" alt="Gmail Badge"></a>
+</div>
 
-<!--
-**ahmfaiz/ahmfaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>About me </h2>
 
-Here are some ideas to get you started:
+- I'm a undergrad from India with keen interest in **_cyber security_** 🛡️ and **_opensource_** 💻️.
+- I also **_code_** 👨‍💻 a bit here n there...
+- I love using **_Linux_** 🐧
+- I am always curious about **_how things work_** 🔎...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>Stuff I know</h2></summary>
+<img src="https://skillicons.dev/icons?i=py,cpp,java,c,html,css" />
+<img src="https://skillicons.dev/icons?i=bash,mysql,git,regex" />
+<img src="https://skillicons.dev/icons?i=aws,linux" />
+
+<h2>Bye 👋</h2>
+Hit me up if you wanna chat about any of the above.
+
+Have a nice day 😊...
