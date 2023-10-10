@@ -8,7 +8,7 @@
 
 <h2>About me </h2>
 
-- I'm a undergrad from India with keen interest in **_cyber security_** 🛡️ and **_opensource_** 💻️.
+- I'm an undergrad from India with keen interest in **_cyber security_** 🛡️ and **_opensource_** 💻️.
 - I also **_code_** 👨‍💻 a bit here n there...
 - I love using **_Linux_** 🐧
 - I am always curious about **_how things work_** 🔎...
