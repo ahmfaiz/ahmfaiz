@@ -15,7 +15,7 @@
 
 
 <h2>Stuff I know</h2></summary>
-<img src="https://skillicons.dev/icons?i=py,cpp,java,c,html,css" />
+<img src="https://skillicons.dev/icons?i=py,c,rust,html,css,js" />
 <img src="https://skillicons.dev/icons?i=bash,mysql,git,regex" />
 <img src="https://skillicons.dev/icons?i=aws,linux" />
 
